@@ -1,0 +1,35 @@
+body
+{
+    color: #909090;
+}
+
+/* CARD DIV */
+div#card
+{
+    position    : fixed;
+    top         : 5em;
+    left        : 50%;
+    transform   : translate(-50%);
+    text-align  : center;
+}
+
+#name
+{
+
+    margin      : 0px;
+    font-family : monospace;
+    font-size   : 1.8em;
+    color       : #13C41C;
+    background  : black;
+}
+
+/* LINKS */
+a
+{
+    text-decoration: none;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
