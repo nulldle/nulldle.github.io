@@ -1,6 +1,7 @@
 body
 {
     color: #909090;
+    background: #fffff0;
 }
 
 /* CARD DIV */
@@ -19,7 +20,7 @@ div#card
     margin      : 0px;
     font-family : monospace;
     font-size   : 1.8em;
-    color       : #13C41C;
+    color       : #13c41c;
     background  : black;
 }
 
